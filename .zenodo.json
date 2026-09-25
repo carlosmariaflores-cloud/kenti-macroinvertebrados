@@ -8,7 +8,7 @@
   "contributors": [
     {"name": "Rodríguez, Gabriel Federico", "affiliation": "Facultad de Ciencias Naturales e Instituto Miguel Lillo, Universidad Nacional de Tucumán", "type": "DataCollector"}
   ],
-  "license": "MIT",
+  "license": "mit",
   "language": "spa",
   "keywords": ["benthic macroinvertebrates", "biotic index", "BMWP", "ASPT", "Andean Biotic Index", "water quality", "Argentina", "Puna", "Chaco"],
   "access_right": "open"
