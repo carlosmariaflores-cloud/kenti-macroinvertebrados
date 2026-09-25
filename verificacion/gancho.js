@@ -1,0 +1,1 @@
+window.__K = {get state(){ return state; }, set state(v){ state = v; }, famAutoAll, FAM_ATTR, bioticRow, classOf, BMWP_CLASSES, ASPT_CLASSES, abiClasses, abiRef, ABI_KENTI, FAMDIC, famResolve, scoreFor, parseSimple, normTax, renderBio, bioData, BMWP_KENTI, BMWPBOL_KENTI, renderTable, touch, selectTab, get tabs(){ return tabs; }};

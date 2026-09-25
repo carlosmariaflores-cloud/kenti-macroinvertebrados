@@ -1,0 +1,62 @@
+KENTI MACROINVERTEBRADOS · versión 0.5
+======================================
+
+Programa libre (licencia MIT) para datos de macroinvertebrados bentónicos:
+familia automática, BMWP' del NOA, ASPT' y ABI, diversidad, PCA y Excel.
+Código fuente: https://github.com/carlosmariaflores-cloud/kenti-macroinvertebrados
+
+
+Cómo abrirlo
+------------
+1. Descomprime este .zip en cualquier carpeta (por ejemplo, el Escritorio).
+   No lo abras desde dentro del .zip.
+2. Haz doble clic en "Kenti Macroinvertebrados.exe". Se abre una ventana
+   propia. No hace falta instalar nada.
+
+La primera vez, Windows puede mostrar "Windows protegió su PC" porque el
+programa no tiene firma digital: haz clic en "Más información" y después en
+"Ejecutar de todas formas".
+
+Requisitos: Windows 10 u 11 con Microsoft Edge (viene con Windows) o Google
+Chrome.
+
+
+Qué cambió en la 0.5
+--------------------
+1. ESPAÑOL E INGLÉS. Botón ES / EN arriba a la derecha. El idioma también
+   cambia los números (coma decimal en español, punto en inglés), los avisos,
+   los gráficos y el Excel.
+2. LAS TABLAS DE PUNTAJE VIENEN INCORPORADAS: BMWP' del NOA (Domínguez y
+   Fernández 1998), completado con la tabla boliviana BMWP/Bol para las
+   familias que no están (se puede desactivar), y ABI (Prat et al. 2009). Se
+   pueden reemplazar por otras desde "Tablas de puntaje".
+3. ASPT' con las clases de Cammaerts et al. (2008).
+4. Arreglos: "Copiar tabla para Excel" de la pestaña 2 fallaba; el Excel
+   decía "Invalid Date" en las tablas incorporadas.
+
+
+Cómo se usa
+-----------
+1. Copia tu planilla en Excel (primera fila: los sitios; primera columna: los
+   taxones) y pégala en la celda A1 de la pestaña 1. Las columnas de totales,
+   abundancia % y similares se ignoran solas.
+2. Revisa la columna Familia: en azul, propuesta de Kenti; en ámbar, grafía
+   corregida o género en más de una familia. Para cambiarla, escribe encima.
+3. Pestaña 5, Índices bióticos: BMWP', ASPT' y ABI por sitio, con sus clases y
+   la lista de familias sin puntaje o completadas con la tabla boliviana.
+4. "Exportar a Excel" guarda el libro en la carpeta de datos.
+
+
+Dónde quedan tus datos
+----------------------
+Cada cambio se guarda solo en:
+
+    Documentos\Kenti Macroinvertebrados\datos-macroinvertebrados.json
+
+Ahí también están el respaldo (datos-macroinvertebrados.respaldo.json), los
+Excel exportados y kenti.log. Si ya usabas una versión anterior, tus datos se
+abren igual.
+
+Para cerrar el programa, cierra su ventana.
+
+Comentarios y errores: cmflores@csnat.unt.edu.ar (adjunta el .json y kenti.log).

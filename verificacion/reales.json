@@ -1,0 +1,625 @@
+[
+{
+"campania": "Puna argentina · otoño",
+"sitio": "Sitio 1",
+"taxa": {
+"Hydroptilidae": 9,
+"Chironomidae": 33,
+"Elmidae": 5,
+"Hyalellidae": 7,
+"Naididae": 1
+}
+},
+{
+"campania": "Puna argentina · otoño",
+"sitio": "Sitio 2",
+"taxa": {
+"Hydroptilidae": 5,
+"Polycentropodidae": 1,
+"Chironomidae": 45,
+"Ceratopogonidae": 3,
+"Simuliidae": 5,
+"Limoniidae": 4,
+"Elmidae": 34,
+"Hyalellidae": 145,
+"Glossiphoniidae": 2
+}
+},
+{
+"campania": "Puna argentina · otoño",
+"sitio": "Sitio 3",
+"taxa": {
+"Polycentropodidae": 2,
+"Chironomidae": 41,
+"Empididae": 6,
+"Ephydridae": 5,
+"Limoniidae": 9,
+"Corixidae": 1,
+"Hyalellidae": 34,
+"Glossiphoniidae": 2,
+"Hydrachnidae": 3
+}
+},
+{
+"campania": "Puna argentina · otoño",
+"sitio": "Sitio 4",
+"taxa": {
+"Chironomidae": 56,
+"Ceratopogonidae": 3,
+"Empididae": 1,
+"Ephydridae": 3,
+"Hyalellidae": 52,
+"Glossiphoniidae": 9,
+"Hydrachnidae": 2
+}
+},
+{
+"campania": "Puna argentina · otoño",
+"sitio": "Sitio 5",
+"taxa": {
+"Hydropsychidae": 3,
+"Chironomidae": 13,
+"Simuliidae": 2,
+"Muscidae": 8,
+"Dolichopodidae": 4,
+"Elmidae": 12,
+"Hyalellidae": 23,
+"Hydrachnidae": 1
+}
+},
+{
+"campania": "Puna argentina · otoño",
+"sitio": "Sitio 6",
+"taxa": {
+"Chironomidae": 32,
+"Ephydridae": 5,
+"Muscidae": 8,
+"Limoniidae": 6,
+"Dolichopodidae": 5,
+"Hyalellidae": 200
+}
+},
+{
+"campania": "Puna argentina · otoño",
+"sitio": "Sitio 7",
+"taxa": {
+"Chironomidae": 1,
+"Ephydridae": 2,
+"Muscidae": 4
+}
+},
+{
+"campania": "Puna argentina · otoño",
+"sitio": "Sitio 8",
+"taxa": {
+"Chironomidae": 11
+}
+},
+{
+"campania": "Puna argentina · otoño",
+"sitio": "Sitio 9",
+"taxa": {
+"Chironomidae": 9,
+"Ephydridae": 1
+}
+},
+{
+"campania": "Puna argentina · otoño",
+"sitio": "Sitio 10",
+"taxa": {
+"Polycentropodidae": 7,
+"Chironomidae": 7,
+"Ephydridae": 12,
+"Elmidae": 5
+}
+},
+{
+"campania": "Puna argentina · otoño",
+"sitio": "Sitio 11",
+"taxa": {
+"Chironomidae": 17,
+"Ephydridae": 2,
+"Muscidae": 3,
+"Dolichopodidae": 1
+}
+},
+{
+"campania": "Puna argentina · otoño",
+"sitio": "Sitio 12",
+"taxa": {
+"Baetidae": 16,
+"Gripopterygidae": 2,
+"Hydroptilidae": 1,
+"Hydropsychidae": 1,
+"Limnephilidae": 2,
+"Polycentropodidae": 1,
+"Chironomidae": 234,
+"Ceratopogonidae": 1,
+"Simuliidae": 33,
+"Ephydridae": 9,
+"Limoniidae": 7,
+"Dolichopodidae": 8,
+"Elmidae": 34,
+"Hyalellidae": 324
+}
+},
+{
+"campania": "Puna argentina · primavera",
+"sitio": "Sitio 1",
+"taxa": {
+"Baetidae": 2,
+"Gripopterygidae": 3,
+"Hydroptilidae": 5,
+"Hydropsychidae": 1,
+"Polycentropodidae": 1,
+"Chironomidae": 3,
+"Elmidae": 1,
+"Dytiscidae": 3,
+"Corixidae": 2,
+"Hyalellidae": 3,
+"Naididae": 1
+}
+},
+{
+"campania": "Puna argentina · primavera",
+"sitio": "Sitio 2",
+"taxa": {
+"Hydroptilidae": 2,
+"Polycentropodidae": 5,
+"Chironomidae": 15,
+"Ceratopogonidae": 1,
+"Limoniidae": 7,
+"Dytiscidae": 5,
+"Coenagrionidae": 1,
+"Glossiphoniidae": 1,
+"Hydrachnidae": 3
+}
+},
+{
+"campania": "Puna argentina · primavera",
+"sitio": "Sitio 3",
+"taxa": {
+"Polycentropodidae": 2,
+"Chironomidae": 13,
+"Empididae": 3,
+"Ephydridae": 5,
+"Limoniidae": 2,
+"Dytiscidae": 9,
+"Naididae": 1,
+"Hydrachnidae": 3
+}
+},
+{
+"campania": "Puna argentina · primavera",
+"sitio": "Sitio 4",
+"taxa": {
+"Polycentropodidae": 3,
+"Chironomidae": 15,
+"Glossiphoniidae": 2,
+"Hydrachnidae": 7
+}
+},
+{
+"campania": "Puna argentina · primavera",
+"sitio": "Sitio 5",
+"taxa": {
+"Baetidae": 3,
+"Gripopterygidae": 3,
+"Hydroptilidae": 1,
+"Hydropsychidae": 1,
+"Limnephilidae": 1,
+"Polycentropodidae": 7,
+"Chironomidae": 14,
+"Ceratopogonidae": 1,
+"Simuliidae": 1,
+"Muscidae": 9,
+"Limoniidae": 5,
+"Elmidae": 5,
+"Dytiscidae": 1,
+"Hyalellidae": 2,
+"Naididae": 1,
+"Hydrachnidae": 12
+}
+},
+{
+"campania": "Puna argentina · primavera",
+"sitio": "Sitio 6",
+"taxa": {
+"Baetidae": 1,
+"Gripopterygidae": 6,
+"Hydroptilidae": 2,
+"Polycentropodidae": 6,
+"Chironomidae": 7,
+"Ceratopogonidae": 2,
+"Simuliidae": 3,
+"Ephydridae": 1,
+"Limoniidae": 7,
+"Dytiscidae": 6,
+"Glossiphoniidae": 5,
+"Naididae": 2,
+"Hydrachnidae": 1
+}
+},
+{
+"campania": "Puna argentina · primavera",
+"sitio": "Sitio 7",
+"taxa": {
+"Chironomidae": 14,
+"Empididae": 3,
+"Ephydridae": 4,
+"Muscidae": 7,
+"Hyalellidae": 1,
+"Naididae": 1,
+"Hydrachnidae": 1
+}
+},
+{
+"campania": "Puna argentina · primavera",
+"sitio": "Sitio 8",
+"taxa": {
+"Hydroptilidae": 1,
+"Chironomidae": 34,
+"Naididae": 1
+}
+},
+{
+"campania": "Puna argentina · primavera",
+"sitio": "Sitio 9",
+"taxa": {
+"Chironomidae": 10,
+"Naididae": 1,
+"Hydrachnidae": 2
+}
+},
+{
+"campania": "Puna argentina · primavera",
+"sitio": "Sitio 11",
+"taxa": {
+"Baetidae": 3,
+"Gripopterygidae": 9,
+"Hydroptilidae": 2,
+"Hydropsychidae": 1,
+"Chironomidae": 11,
+"Limoniidae": 3,
+"Elmidae": 12,
+"Dytiscidae": 9,
+"Glossiphoniidae": 2,
+"Naididae": 1
+}
+},
+{
+"campania": "Puna argentina · primavera",
+"sitio": "Sitio 12",
+"taxa": {
+"Baetidae": 34,
+"Gripopterygidae": 22,
+"Hydroptilidae": 3,
+"Hydropsychidae": 5,
+"Limnephilidae": 1,
+"Polycentropodidae": 4,
+"Chironomidae": 30,
+"Simuliidae": 3,
+"Limoniidae": 1,
+"Dytiscidae": 3,
+"Corixidae": 2,
+"Coenagrionidae": 2,
+"Hyalellidae": 11,
+"Glossiphoniidae": 2,
+"Naididae": 2,
+"Hydrachnidae": 2
+}
+},
+{
+"campania": "Puna argentina · verano",
+"sitio": "Sitio 1",
+"taxa": {
+"Hydroptilidae": 3,
+"Chironomidae": 23,
+"Elmidae": 1,
+"Hyalella sp.": 2,
+"Oligochaeta": 3
+}
+},
+{
+"campania": "Puna argentina · verano",
+"sitio": "Sitio 2",
+"taxa": {
+"Hydroptilidae": 1,
+"Polycentropodidae": 1,
+"Chironomidae": 39,
+"Ceratopogonidae": 1,
+"Simuliidae": 2,
+"Limoniidae": 1,
+"Elmidae": 24,
+"Hyalella sp.": 225,
+"Hirudinea": 1,
+"Hydracarina": 1
+}
+},
+{
+"campania": "Puna argentina · verano",
+"sitio": "Sitio 3",
+"taxa": {
+"Polycentropodidae": 1,
+"Chironomidae": 39,
+"Empididae": 3,
+"Ephydridae": 2,
+"Limoniidae": 7,
+"Corixidae": 3,
+"Hyalella sp.": 23,
+"Hirudinea": 10,
+"Hydracarina": 5
+}
+},
+{
+"campania": "Puna argentina · verano",
+"sitio": "Sitio 4",
+"taxa": {
+"Chironomidae": 30,
+"Ceratopogonidae": 1,
+"Ephydridae": 1,
+"Hyalella sp.": 49,
+"Hirudinea": 16,
+"Oligochaeta": 1,
+"Hydracarina": 1
+}
+},
+{
+"campania": "Puna argentina · verano",
+"sitio": "Sitio 5",
+"taxa": {
+"Hydropsychidae": 1,
+"Chironomidae": 9,
+"Simuliidae": 1,
+"Muscidae": 1,
+"Elmidae": 1,
+"Hyalella sp.": 34,
+"Hydracarina": 5
+}
+},
+{
+"campania": "Puna argentina · verano",
+"sitio": "Sitio 6",
+"taxa": {
+"Polycentropodidae": 1,
+"Chironomidae": 21,
+"Ephydridae": 1,
+"Muscidae": 3,
+"Limoniidae": 1,
+"Elmidae": 2,
+"Hyalella sp.": 250,
+"Hydracarina": 2
+}
+},
+{
+"campania": "Puna argentina · verano",
+"sitio": "Sitio 7",
+"taxa": {
+"Chironomidae": 1,
+"Empididae": 1,
+"Ephydridae": 1,
+"Muscidae": 1,
+"Oligochaeta": 1
+}
+},
+{
+"campania": "Puna argentina · verano",
+"sitio": "Sitio 8",
+"taxa": {
+"Chironomidae": 23
+}
+},
+{
+"campania": "Puna argentina · verano",
+"sitio": "Sitio 9",
+"taxa": {
+"Chironomidae": 5,
+"Ephydridae": 3
+}
+},
+{
+"campania": "Puna argentina · verano",
+"sitio": "Sitio 11",
+"taxa": {
+"Chironomidae": 12,
+"Ephydridae": 2,
+"Limoniidae": 3,
+"Corixidae": 1,
+"Hydracarina": 2
+}
+},
+{
+"campania": "Puna argentina · verano",
+"sitio": "Sitio 12",
+"taxa": {
+"Baetidae": 11,
+"Gripopterygidae": 5,
+"Hydroptilidae": 7,
+"Hydropsychidae": 5,
+"Limnephilidae": 2,
+"Polycentropodidae": 2,
+"Chironomidae": 121,
+"Ceratopogonidae": 12,
+"Simuliidae": 13,
+"Ephydridae": 2,
+"Limoniidae": 2,
+"Corixidae": 3,
+"Hyalella sp.": 123,
+"Oligochaeta": 1,
+"Hydracarina": 1
+}
+},
+{
+"campania": "Chaco occidental · primavera",
+"sitio": "Sitio 13",
+"taxa": {
+"Caenidae": 89,
+"Baetidae": 56,
+"Hydroptilidae": 34,
+"Hydropsychidae": 12,
+"Limnephilidae": 13,
+"Polycentropodidae": 4,
+"Chironomidae": 165,
+"Ceratopogonidae": 18,
+"Empididae": 11,
+"Simuliidae": 15,
+"Elmidae": 8,
+"Psephenidae": 4,
+"Corixidae": 11,
+"Mesoveliidae": 5,
+"Gripopterygidae": 23,
+"Libellulidae": 3,
+"Coenagrionidae": 2,
+"Hydrachnidae": 12,
+"Naididae": 2
+}
+},
+{
+"campania": "Chaco occidental · primavera",
+"sitio": "Sitio 14",
+"taxa": {
+"Caenidae": 45,
+"Baetidae": 76,
+"Hydroptilidae": 23,
+"Hydropsychidae": 11,
+"Limnephilidae": 13,
+"Polycentropodidae": 3,
+"Chironomidae": 90,
+"Ceratopogonidae": 13,
+"Empididae": 8,
+"Simuliidae": 11,
+"Elmidae": 11,
+"Psephenidae": 5,
+"Corixidae": 2,
+"Mesoveliidae": 5,
+"Gripopterygidae": 11,
+"Libellulidae": 1,
+"Coenagrionidae": 1,
+"Hydrachnidae": 15,
+"Naididae": 12
+}
+},
+{
+"campania": "Chaco occidental · primavera",
+"sitio": "Sitio 15",
+"taxa": {
+"Caenidae": 22,
+"Baetidae": 34,
+"Hydroptilidae": 12,
+"Hydropsychidae": 9,
+"Limnephilidae": 12,
+"Polycentropodidae": 1,
+"Chironomidae": 211,
+"Ceratopogonidae": 12,
+"Empididae": 5,
+"Simuliidae": 7,
+"Elmidae": 8,
+"Psephenidae": 7,
+"Corixidae": 8,
+"Mesoveliidae": 1,
+"Gripopterygidae": 10,
+"Hydrachnidae": 11,
+"Naididae": 4
+}
+},
+{
+"campania": "Chaco occidental · verano",
+"sitio": "Sitio 13",
+"taxa": {
+"Caenidae": 5,
+"Baetidae": 4,
+"Empididae": 1
+}
+},
+{
+"campania": "Chaco occidental · verano",
+"sitio": "Sitio 14",
+"taxa": {
+"Caenidae": 3,
+"Baetidae": 3,
+"Hydroptilidae": 4,
+"Chironomidae": 4
+}
+},
+{
+"campania": "Chaco occidental · verano",
+"sitio": "Sitio 15",
+"taxa": {
+"Caenidae": 26,
+"Baetidae": 7,
+"Hydroptilidae": 10,
+"Chironomidae": 1,
+"Belostomatidae": 1,
+"Libellulidae": 1,
+"Coenagrionidae": 2
+}
+},
+{
+"campania": "Chaco occidental · otoño",
+"sitio": "Sitio 13",
+"taxa": {
+"Caenidae": 67,
+"Baetidae": 35,
+"Hydroptilidae": 10,
+"Hydropsychidae": 7,
+"Limnephilidae": 15,
+"Polycentropodidae": 2,
+"Chironomidae": 100,
+"Ceratopogonidae": 34,
+"Empididae": 15,
+"Simuliidae": 13,
+"Elmidae": 17,
+"Corixidae": 19,
+"Veliidae": 12,
+"Crambidae": 1,
+"Gripopterygidae": 3,
+"Coenagrionidae": 5,
+"Hydrachnidae": 9
+}
+},
+{
+"campania": "Chaco occidental · otoño",
+"sitio": "Sitio 14",
+"taxa": {
+"Caenidae": 54,
+"Baetidae": 23,
+"Hydroptilidae": 17,
+"Hydropsychidae": 11,
+"Limnephilidae": 12,
+"Polycentropodidae": 8,
+"Chironomidae": 105,
+"Ceratopogonidae": 16,
+"Empididae": 17,
+"Simuliidae": 8,
+"Elmidae": 19,
+"Corixidae": 13,
+"Veliidae": 14,
+"Crambidae": 2,
+"Gripopterygidae": 4,
+"Coenagrionidae": 8,
+"Hydrachnidae": 5
+}
+},
+{
+"campania": "Chaco occidental · otoño",
+"sitio": "Sitio 15",
+"taxa": {
+"Caenidae": 43,
+"Baetidae": 18,
+"Hydroptilidae": 11,
+"Hydropsychidae": 9,
+"Limnephilidae": 11,
+"Polycentropodidae": 9,
+"Chironomidae": 134,
+"Ceratopogonidae": 23,
+"Empididae": 13,
+"Simuliidae": 10,
+"Elmidae": 5,
+"Corixidae": 10,
+"Veliidae": 15,
+"Crambidae": 1,
+"Coenagrionidae": 2,
+"Hydrachnidae": 3
+}
+}
+]

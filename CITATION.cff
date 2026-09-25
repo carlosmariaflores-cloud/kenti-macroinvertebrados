@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Kenti Macroinvertebrados"
+abstract: >-
+  Free desktop program for benthic macroinvertebrate data: it assigns the family of each taxon
+  from its genus or species (built-in list of 5802 South American genera from GBIF, with typo
+  correction) and computes the BMWP' of northwestern Argentina (Domínguez & Fernández 1998),
+  completed with the Bolivian BMWP/Bol table, the ASPT' (Cammaerts et al. 2008 classes) and the
+  Andean Biotic Index, plus alpha and beta diversity, PCA and an Excel report. Spanish and English interface.
+type: software
+authors:
+  - family-names: "Flores"
+    given-names: "Carlos María"
+    orcid: "https://orcid.org/0009-0000-8959-4738"
+    affiliation: "Facultad de Ciencias Naturales e Instituto Miguel Lillo, Universidad Nacional de Tucumán"
+contributors:
+  - family-names: "Rodríguez"
+    given-names: "Gabriel Federico"
+    affiliation: "Facultad de Ciencias Naturales e Instituto Miguel Lillo, Universidad Nacional de Tucumán"
+version: "0.5.0"
+date-released: "2026-09-25"
+license: MIT
+repository-code: "https://github.com/carlosmariaflores-cloud/kenti-macroinvertebrados"
+keywords:
+  - benthic macroinvertebrates
+  - biotic index
+  - BMWP
+  - ASPT
+  - Andean Biotic Index
+  - water quality
+  - Argentina
+  - Puna
