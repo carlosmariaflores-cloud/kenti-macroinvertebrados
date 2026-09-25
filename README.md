@@ -1,5 +1,7 @@
 # Kenti Macroinvertebrados
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22968797.svg)](https://doi.org/10.5281/zenodo.22968797)
+
 Free desktop program for benthic macroinvertebrate data from rivers of northwestern Argentina and the Andes.
 You paste the sampling table from Excel; Kenti proposes the family of each taxon, computes the biotic indices and
 exports an Excel report that records where every family and every score came from.
@@ -63,8 +65,10 @@ completed BMWP'. Seeds are fixed, so the results in `verificacion/resultados/` a
 
 ## How to cite
 
-Please cite the software through its Zenodo DOI (see the badge on the release, or `CITATION.cff`) and the
-accompanying paper:
+Please cite the software and the accompanying paper:
+
+> Flores, C. M. (2026). *Kenti Macroinvertebrados* (Version 0.5.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.22968797
+
 
 > Flores, C. M., & Rodríguez, G. F. (in preparation). Kenti Macroinvertebrados: automatic family assignment and
 > verified computation of the BMWP', ASPT' and ABI biotic indices for rivers of northwestern Argentina. *Limnetica*.
